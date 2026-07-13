@@ -4473,12 +4473,14 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Python
+    - [auditlite](https://github.com/heidihelena/auditlite) - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
     - [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
     - [BILN](https://github.com/JimmyXtesla/BILN) - a lightweight, "black box" flight recorder for bioinformatics experiments
 
 ## Literature tools
+- [CiteVahti](https://github.com/heidihelena/citevahti) - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
 - [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
 - [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
 
