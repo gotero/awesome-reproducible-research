@@ -3927,6 +3927,28 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.20944/preprints202603.1329.v1"><span title="The AutoResearch Moment: From Experimenter to Research Director">He et al <meta property="datePublished" content="2026-03-20">2026</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;Automated research has just crossed a threshold, becoming increasingly visible through public-facing instruments like AUTORESEARCH https://github.com/karpathy/autoresearch. In this position paper, we use this system to highlight a broader methodological shift: the human role is moving from experimenter to research director. As agents cheaply generate and execute experimental branches, the primary unit of scientific accountability shifts from a successful run to an admissible claim—a concept we call the claim-governance thesis. NLP makes this shift especially apparent due to its dynamic evaluation, contamination risks, and normative trade-offs. Because current agents excel at short-horizon search but lack long-horizon evidential discipline, a traditional paper and final checkpoint no longer sufficiently convey the scientific object. We therefore propose a research-director bundle—comprising an objective sheet, program boundaries, discovery trace, verification ledger, provenance bundle, and role map—as a practical minimum artifact set for evaluating automated research.&lt;/jats:p&gt;">The AutoResearch Moment: From Experimenter to Research Director</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Artificial Intelligence
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
