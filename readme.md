@@ -2923,6 +2923,52 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pone.0348512">Kozula et al
+							<meta property="datePublished" content="2026-05-20">2026</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="What helps and hinders reproducible research? Researchers’ perspectives from a cross-disciplinary interview study">Cross-disciplinary</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							60 researchers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.5334/dsj-2026-024">Aloqalaa et al
+							<meta property="datePublished" content="2026-07-14">2026</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="A Structured Examination of Reproducibility: A Case Study for HTS Using the PRIMAD Model and BioCompute Object">Bioinformatics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							1 pipeline
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
